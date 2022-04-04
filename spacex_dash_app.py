@@ -1,3 +1,6 @@
+# Created by Leon Soroko for the Data Science Capstone Project 
+# Date: 04 April 2022
+
 # Import required libraries
 from matplotlib.pyplot import xlabel, ylabel
 import pandas as pd
